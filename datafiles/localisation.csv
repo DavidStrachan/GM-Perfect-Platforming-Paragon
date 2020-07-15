@@ -1,0 +1,20 @@
+string,description,english,pirate,french,dave,swedish
+,,en,,fr,,sv
+test,This is a test string,test,test,Wee,dave,test
+play_pause,,Pause,Pause,wee,dave,Pause
+mainmenu_title,,Heading,Heading,wii,dave,Riktning
+mainmenu_play,,Play,Yar! Play,wee!,dave,Spela
+play_besttime,,Best time,Ya time,La time,dave,???
+helper_name_0,,Anti Gravity Apex,Anti Gravity Apex,Anti Gravity Apex,Anti Gravity Apex,Antigraviations Apex
+helper_name_1,,Early Fall,Early Fall,Early Fall,Early Fall,Tidigt Fall
+helper_name_2,,Jump Buffering,Jump Buffering,Jump Buffering,Jump Buffering,Hoppbuffer
+helper_name_3,,Sticky Feet on Land,Sticky Feet on Land,Sticky Feet on Land,Sticky Feet on Land,Fötter Fastnar på Land
+helper_name_4,,Speedy Apex,Speedy Apex,Speedy Apex,Speedy Apex,Snabbt Apex
+helper_name_5,,Coyote Time,Coyote Time,Coyote Time,Coyote Time,Coyote Hopp
+helper_name_6,,Clamp Fall Speed,Clamp Fall Speed,Clamp Fall Speed,Clamp Fall Speed,Begränsa Fallhastighet
+helper_name_7,,Catch Missed Jump,Catch Missed Jump,Catch Missed Jump,Catch Missed Jump,Fånga Missat Hopp
+helper_name_8,,Bumped Head on Corner,Bumped Head on Corner,Bumped Head on Corner,Bumped Head on Corner,Träffa Huvudet på Hörnet
+on,,On,On,On,On,On
+off,,Off,Off,Off,Off,Off
+gui_controls_for_helpers,,Helper toggle – on: O off: I random: P,Helper toggle – on: O off: I random: P,Helper toggle – on: O off: I random: P,Helper toggle – on: O off: I random: P,Helper toggle – on: O off: I random: P
+intro_interact_popup,,W/A/D to Interact,W/A/D for Voyage,W/A/D to Interact,dave,W/A/D to Interact
