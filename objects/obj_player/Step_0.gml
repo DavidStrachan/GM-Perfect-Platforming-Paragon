@@ -17,9 +17,36 @@ if (helper_used_all) {
 		    helper_on[i] = choose(true,false)
 		}
 	}
+	
+	if (keyboard_check_pressed(ord("1"))) {
+		if (helper_on[0] == true) {helper_on[0] = false} else {helper_on[0] = true}
+	}
+	if (keyboard_check_pressed(ord("2"))) {
+		if (helper_on[1] == true) {helper_on[1] = false} else {helper_on[1] = true}
+	}
+	if (keyboard_check_pressed(ord("3"))) {
+		if (helper_on[2] == true) {helper_on[2] = false} else {helper_on[2] = true}
+	}
+	if (keyboard_check_pressed(ord("4"))) {
+		if (helper_on[3] == true) {helper_on[3] = false} else {helper_on[3] = true}
+	}
+	if (keyboard_check_pressed(ord("5"))) {
+		if (helper_on[4] ==true) {helper_on[4] = false} else {helper_on[4] = true}
+	}
+	if (keyboard_check_pressed(ord("6"))) {
+		if (helper_on[5] == true) {helper_on[5] = false} else {helper_on[5] = true}
+	}
+	if (keyboard_check_pressed(ord("7"))) {
+		if (helper_on[6] == true) {helper_on[6] = false} else {helper_on[6] = true}
+	}
+	if (keyboard_check_pressed(ord("8"))) {
+		if (helper_on[7] == true) {helper_on[7] = false} else {helper_on[7] = true}
+	}
+	if (keyboard_check_pressed(ord("9"))) {
+		if (helper_on[8] == true) {helper_on[8] = false} else {helper_on[8] = true}
+	}
 }
 #endregion
-
 
 
 
